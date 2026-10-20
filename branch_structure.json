@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/cargo/contract/soroban-sdk-27.0.6",
+    "dependabot/github_actions/actions/checkout-7",
+    "dependabot/github_actions/actions/github-script-9",
+    "dependabot/github_actions/actions/setup-node-7",
+    "dependabot/github_actions/actions/upload-artifact-7",
+    "fix/issue-863-add-test-coverage-reporting",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "dependabot/cargo/contract/soroban-sdk-27.0.6": "main",
+    "dependabot/github_actions/actions/checkout-7": "main",
+    "dependabot/github_actions/actions/github-script-9": "main",
+    "dependabot/github_actions/actions/setup-node-7": "main",
+    "dependabot/github_actions/actions/upload-artifact-7": "main",
+    "fix/issue-863-add-test-coverage-reporting": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/cargo/contract/soroban-sdk-27.0.6",
+    "dependabot/github_actions/actions/checkout-7",
+    "dependabot/github_actions/actions/github-script-9",
+    "dependabot/github_actions/actions/setup-node-7",
+    "dependabot/github_actions/actions/upload-artifact-7",
+    "fix/issue-863-add-test-coverage-reporting",
+    "origin"
+  ]
+}
